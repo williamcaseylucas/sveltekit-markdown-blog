@@ -8,10 +8,16 @@
 - pnpm run format
   - runs prettier on all your code (removed semicolons from prettier config)
 
-## Css Variables similar to tailwind
+## CSS
+
+- padding-block -> left and right
+- padding-inline -> top and bottom
+
+## open-props: Css Variables similar to tailwind
 
 - open-props.style
 - gives you awesome colors that work well together
+- import in +layout.svelte root
 
 ## Lucide
 
