@@ -12,6 +12,11 @@
 
 - padding-block -> left and right
 - padding-inline -> top and bottom
+- max-inline-size: 1440px; -> max-width: 1440px;
+- height: 100% -> h-full
+- height: 100vh -> min-h-screen
+- margin: 0 auto -> margin-inline: auto (top/bottom 0, left/right auto)
+  - apply this to parent container with child content you want centered inside
 
 ## open-props: Css Variables similar to tailwind
 
